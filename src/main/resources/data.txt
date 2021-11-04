@@ -1,0 +1,28 @@
+{
+	"email":"daniel@getarrays.com",
+	"imageUrl":"https://cdn-icons-png.flaticon.com/512/194/194917.png",
+	"jobTitle":"JavaScript",
+	"name":"Daniel Craig",
+	"phone": "0608455293"
+}
+{
+	"email":"christine@getarrays.com",
+	"imageUrl":"https://cdn-icons-png.flaticon.com/512/194/194936.png",
+	"jobTitle":"UX/UI",
+	"name":"Christine Smith",
+	"phone": "0607254362"
+}	
+{
+	"email":"dave@getarrays.com",
+	"imageUrl":"https://cdn-icons-png.flaticon.com/512/194/194935.png",
+	"jobTitle":"Java",
+	"name":"Dave Rogers",
+	"phone": "0678531546"
+}		
+{
+	"email":"georgia@getarrays.com",
+	"imageUrl":"https://cdn-icons-png.flaticon.com/512/194/194934.png",
+	"jobTitle":"SQL",
+	"name":"Georgia Maxwell",
+	"phone": "0628173925"
+}		
